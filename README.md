@@ -14,7 +14,7 @@ Urządzenie posiada 4 różne tryby:
 ## Zdjęcia układu
 
 ### Cały układ
-![Zdjęcie całego układu](images/układ.jpg)
+![Zdjęcie całego układu](images/układ.png)
 
 
 ---
@@ -86,7 +86,7 @@ The device has 4 modes:
 ## Pictures of the Circuit
 
 ### Full Circuit
-![Full Circuit Picture](images/układ.jpg)
+![Full Circuit Picture](images/układ.png)
 
 ---
 
